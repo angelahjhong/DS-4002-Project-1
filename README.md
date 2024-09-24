@@ -11,9 +11,9 @@ Our Modeling Approach:
 Import and preprocess CSV files containing tweets mentioning Trump and Biden this was obtained from: 
 "https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/code" - it was too large to upload as a file onto GitHub
 Conduct initial exploratory data analysis (EDA) and create visualizations
-Perform sentiment analysis using the VADER package in python [1]
+Perform sentiment analysis using the VADER package in python 
 Compare average sentiment scores between candidates and determine whether the differences are statistically significant
-Identify frequently mentioned words associated with each candidate using Term Frequency - Inverse Document Frequency (TF-IDF) [2]
+Identify frequently mentioned words associated with each candidate using Term Frequency - Inverse Document Frequency (TF-IDF)
 
 Data Set Establishment Details:
 Goal: The data set was taken from tweets mentioning Trump and Biden during the 2020 U.S. presidential election, collected by using the Twitter API (statuses_lookup) and snsscrape to capture relevant keywords. This data was then exported into a CSV file and subsequently loaded into python for sentiment analysis using the VADER package. 
