@@ -16,5 +16,5 @@
 
 ## How to Reproduce Results 
 * To reproduce these results:
-* First download the cleaned CSV - located in our DATA folder
+* First download the cleaned CSV for Biden & Trump - located in our DATA folder
 * Run our master files - located in our OUTPUTS folder 
