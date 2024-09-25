@@ -7,7 +7,7 @@
   
 * Packages Used: 
 * EDA: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), and [seaborn](https://pypi.org/project/seaborn/)
-* Analysis: VADER Python package was used to run sentiment analysis - Documentation on how to install VADER in Python [HERE](https://pypi.org/project/vaderSentiment/)
+* Analysis: [VADER](https://pypi.org/project/vaderSentiment/) Python package was used to run sentiment analysis - Documentation on how to install VADER
 * Visualization: [WordCloud](https://pypi.org/project/wordcloud/)
 
 ## Documentation 
