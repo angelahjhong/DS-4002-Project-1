@@ -16,4 +16,5 @@
 
 ## How to Reproduce Results 
 * To reproduce these results:
-* First download the cleaned CSV - located in our DATA folder and run our master files in the OUTPUTS folder 
+* First download the cleaned CSV - located in our DATA folder
+* Run our master files - located in our OUTPUTS folder 
