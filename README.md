@@ -2,7 +2,7 @@
 
 ## Software and Platform 
 
-* All code used the Python language:
+* All code used the [Python](https://www.python.org/downloads/) language:
 * All code was run on a virtual machine in [Google Colab](https://colab.research.google.com/) which runs in Ubuntu Linux
   
 * Packages Used: 
