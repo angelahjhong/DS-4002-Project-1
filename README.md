@@ -1,5 +1,5 @@
 ## **2020 U.S. Election Tweet Sentiment Analysis**
-## DS 4002 Project 1 Group 5
+**DS 4002 Project 1 Group 5**
 
 ## Software and Platform 
 
