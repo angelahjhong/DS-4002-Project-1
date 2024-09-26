@@ -2,10 +2,7 @@
 **DS 4002 Project 1 Group 5**
 
 ## Software and Platform 
-
-All code used the [Python](https://www.python.org/downloads/) language
-
-All code was run on a virtual machine in [Google Colab](https://colab.research.google.com/) which runs on Ubuntu Linux
+All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) 
 * **Packages Used:**
 * Analysis: [VADER](https://pypi.org/project/vaderSentiment/) Python package was used to run sentiment analysis - Documentation on how to install VADER
 * EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), [wordcloud](https://pypi.org/project/wordcloud/), and [seaborn](https://pypi.org/project/seaborn/) 
