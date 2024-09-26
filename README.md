@@ -6,7 +6,7 @@
 * All code was run on a virtual machine in [Google Colab](https://colab.research.google.com/) which runs in Ubuntu Linux
 * **Packages Used:**
 * Analysis: [VADER](https://pypi.org/project/vaderSentiment/) Python package was used to run sentiment analysis - Documentation on how to install VADER
-* EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), [WordCloud](https://pypi.org/project/wordcloud/), and [seaborn](https://pypi.org/project/seaborn/) 
+* EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), [wordcloud](https://pypi.org/project/wordcloud/), and [seaborn](https://pypi.org/project/seaborn/) 
 * Statistics: [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * These links are provided for package documentation
 
