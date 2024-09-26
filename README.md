@@ -12,7 +12,7 @@
 ## Documentation 
 * Our data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub
 * SCRIPTS folder: empty - didn't need to scrape data 
-* DATA folder: contains "Project_EDA.ipynb" - raw to clean data / "DataAppenix.pdf" - contains data, figures, and other descriptive statistics. 
+* DATA folder: contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. "DataAppenix.pdf" This PDF stores our data, figures, and other descriptive statistics. 
 * OUTPUTS folder: contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. A file named "ResultsAppendix.pdf" stores visualized figures computed from our analysis. 
 
 ## How to Reproduce Results 
@@ -20,4 +20,4 @@
 * First follow to instructions to download the data Biden & Trump - located in our DATA folder under "Project1_EDA.ipynb"
 * Run the file titled "Project1_Part1_SentimentAnalysis.ipynb" - located in our OUTPUTS folder, to view sentiment analysis
 * Run the file titled "Project1_Part2_FrequentWords.ipynb" - located in our OUTPUTS folder, to view our computed frequent words
-* The files "DataAppendix.pdf" and "ResultsAppendix.pdf" contain all figures run from our analysis 
+* The PDF files titled "DataAppendix.pdf" and "ResultsAppendix.pdf" contain all figures run from our analysis 
