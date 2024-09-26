@@ -2,7 +2,7 @@
 **DS 4002 Project 1 Group 5**
 
 ## Software and Platform 
-All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) \
+All code used the [Python](https://www.python.org/downloads/) language on a virtual machine in [Google Colab](https://colab.research.google.com/) 
 
 **Packages Used:**
 * Analysis: [VADER](https://pypi.org/project/vaderSentiment/) Python package was used to run sentiment analysis - Documentation on how to install VADER
