@@ -7,7 +7,7 @@
 * **Packages Used:**
 * Analysis: [VADER](https://pypi.org/project/vaderSentiment/) Python package was used to run sentiment analysis - Documentation on how to install VADER
 * EDA & Visualization: [pandas](https://pypi.org/project/pandas/), [numpy](https://pypi.org/project/numpy/), [matplotlib](https://pypi.org/project/matplotlib/), [WordCloud](https://pypi.org/project/wordcloud/), and [seaborn](https://pypi.org/project/seaborn/) 
-* Statistics: [statistical significance](https://docs.scipy.org/doc/scipy/reference/stats.html)
+* Statistics: [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * These links are provided for package documentation
 
 ## Documentation 
@@ -15,7 +15,7 @@
 * **SCRIPTS folder:** empty - didn't need to scrape data 
 * **DATA folder:** contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. "DataAppenix.pdf" This PDF stores our data, figures, and other descriptive statistics. 
 * **OUTPUTS folder:** contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. "Project1_Part3_StatisticalSignificance.ipynb" was created to find and test the statistical significance of our mean sentiment scores for Trump and Biden. Lastly, a file named "ResultsAppendix.pdf" stores visualized figures computed from our analysis.
-* **REFERENCES folder:** contains "references.pdf" which includes references used throughout this project
+* **REFERENCES folder:** contains "References.pdf" which includes references used throughout this project
 
 ## How to Reproduce Results 
 * **To reproduce these results:**
