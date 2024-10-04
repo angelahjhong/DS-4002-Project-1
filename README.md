@@ -12,9 +12,9 @@ All code used the [Python](https://www.python.org/downloads/) language on a virt
 
 ## Documentation 
 Our data was pulled from [Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/data) - it was too large to upload as a file onto GitHub
-* **SCRIPTS folder:** contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. "Project1_Part3_StatisticalSignificance.ipynb" was created to find and test the statistical significance of our mean sentiment scores for Trump and Biden. Lastly, a file named "ResultsAppendix.pdf" stores visualized figures computed from our analysis.
-* **DATA folder:** contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. 
-* **OUTPUTS folder:** "DataAppenix.pdf" This PDF stores our data, figures, and other descriptive statistics. 
+* **SCRIPTS folder:** contains "Project1_Part1_SentimentAnalysis.ipynb" and "Project1_Part2_FrequentWords.ipynb" which are notebooks to our sentiment analysis, frequently used words. "Project1_Part3_StatisticalSignificance.ipynb" was created to find and test the statistical significance of our mean sentiment scores for Trump and Biden.
+* **DATA folder:** contains "Project_EDA.ipynb" which is a file that instructs the user how to download our data from Kaggle, data cleaning, and EDA. "DataAppenix.pdf" stores our data, figures, and other descriptive statistics.
+* **OUTPUTS folder:**  "ResultsAppendix.pdf" stores visualized figures and statistical analysis computed from our study. 
 * **REFERENCES folder:** contains "References.pdf" which includes references used throughout this project
 
 ## How to Reproduce Results 
